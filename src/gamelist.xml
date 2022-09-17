@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Lufia &amp; The Fortress of Doom (S)/Lufia &amp; The Fortress of Doom (S).zip</path>
+		<name>Lufia &amp; the Fortress of Doom</name>
+		<desc>Los Sinsitrals, cuatro maestros de Doom, llegaron a esta tierra en su isla flotante hace 100 años. Comenzarás tu búsqueda viajando en el tiempo para unirte en una tremenda batalla contra ellos, y determinarás el resultado. Cuando regrese a la actualidad, usted y Lufia, su acompañante, deben unir fuerzas con otros dos para evitar que los Sinistrales recuperen el control de su mundo. Será una tarea larga y difícil: esta tierra es más grande que la de la mayoría de los juegos de rol. Y al final, el equilibrio del destino será anulado en un concurso de amor y traición que podría destruirlos a todos.</desc>
+		<image>./images/Lufia &amp; The Fortress of Doom (S)-image.png</image>
+		<video>./videos/Lufia &amp; The Fortress of Doom (S)-video.mp4</video>
+		<marquee>./images/Lufia &amp; The Fortress of Doom (S)-marquee.png</marquee>
+		<thumbnail>./images/Lufia &amp; The Fortress of Doom (S)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19931204T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Juegos de rol</genre>
+	</game>
+	<game>
+		<path>./Marko's Magic Football (Europe) (En,Fr,De,Es)/Marko's Magic Football (Europe) (En,Fr,De,Es).zip</path>
+		<name>Marko's Magic Football</name>
+		<desc>Bienvenido al mundo de Marko, un mundo de locura de dibujos animados. Experimenta la mezcla adictiva de habilidades de fútbol y acción de plataforma que se combinan para crear una experiencia de juego magnífica. Agregue los gráficos más increíbles que haya visto y el resultado es el Magic Football de Marko. Es como jugar una caricatura.</desc>
+		<image>./images/Marko's Magic Football (Europe) (En,Fr,De,Es)-image.png</image>
+		<video>./videos/Marko's Magic Football (Europe) (En,Fr,De,Es)-video.mp4</video>
+		<marquee>./images/Marko's Magic Football (Europe) (En,Fr,De,Es)-marquee.png</marquee>
+		<thumbnail>./images/Marko's Magic Football (Europe) (En,Fr,De,Es)-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>19950201T000000</releasedate>
+		<developer>Domark</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Plataforma</genre>
+	</game>
+</gameList>

@@ -1,0 +1,19 @@
+{
+  "name": "batocera_xml_app_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2xml": "^0.1.3",
+    "xml-beautifier": "^0.5.0",
+    "xml-formatter": "^2.6.1",
+    "xml2js": "^0.4.23",
+    "xml2json": "^0.12.0"
+  }
+}
